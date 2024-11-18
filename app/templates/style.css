@@ -1,0 +1,10 @@
+body{
+    background: #2d2929;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
